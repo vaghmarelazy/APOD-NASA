@@ -219,9 +219,10 @@ footer button:hover {
 }
 ::-webkit-scrollbar {
   width: 10px;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.542);
 }
-::-webkit-scrollbar-thumb{
+
+::-webkit-scrollbar-thumb {
   background-color: rgb(48, 48, 48);
   border-radius: 10px;
 }

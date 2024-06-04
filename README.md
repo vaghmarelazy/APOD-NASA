@@ -1,8 +1,9 @@
-# React + Vite
+# NASA APOD React-app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application that fetches and displays data from NASA's Astronomy Picture of the Day (APOD) API, including the title, description, and image of the day.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fetches and displays the Astronomy Picture of the Day from NASA's APOD API.
+- Shows the title, description, and image for the current day.
+- Responsive design.

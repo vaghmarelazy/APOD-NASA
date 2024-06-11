@@ -6,7 +6,7 @@ function Footer(props) {
     <footer>
       <div className="bgGradient"></div>
       <div>
-        <h1>APOD Project</h1>
+        <h1>NASA'S PICTURE OF THE DAY</h1>
         <h2>{data?.title}</h2>
       </div>
       <button onClick={handleToggleModel}>
